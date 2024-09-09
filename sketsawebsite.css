@@ -16,14 +16,8 @@
         overflow : hidden;
         padding : 10px;
         
-    }
-    @media only screen and (min-width: 768px) and (max-width: 1023px) {
-      .header, .main, .footer {
-          width: 100%;
-          margin-bottom: 20px;
-      }
+ }
   }
-  
     .menu li{
         display: inline-block;
         padding: 10px;
